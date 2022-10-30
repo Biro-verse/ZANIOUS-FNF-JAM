@@ -283,19 +283,26 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_smokey_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_nebula_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_river_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_kalvin_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_cosmic_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_kawaisprite_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_flicky_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_sqirra_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_biro_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_rrrrrrrrrrrrrrrrrrr_1_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_keoiki_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_kade_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_proxy_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_milkman_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_shubs_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_discord_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_evilsk8r_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_mastereric_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_bb_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_shadowmario_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_noah_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_phantomarcade_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_rainbow_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_cry_about_it_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_funkay_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_purple_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
@@ -791,8 +798,10 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_week7_sounds_jeffgameover_jeffgameover_18_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_week7_sounds_killyou_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_week7_sounds_wellwellwell_ogg extends null { }
-@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_songs_placeholder_voices_ogg extends null { }
-@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_songs_placeholder_inst_ogg extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_songs_unhinged_voices_ogg extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_songs_unhinged_inst_ogg extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_songs_introluction_voices_ogg extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_songs_introluction_inst_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_songs_readme_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_songs_whysozany_voices_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_songs_whysozany_inst_ogg extends null { }
@@ -810,11 +819,19 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_menubackgrounds_readme_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_gfdancetitle_xml extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_gfdancetitle_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_a_json extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_an_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_hi_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_hi_dialogue_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_hi_dialogue_xml extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_readme_txt extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_aniamtic_dialogue_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_aniamtic_dialogue_xml extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_angg_dialogue_xml extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_angg_dialogue_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_gfdancetitle_json extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_alphabet_xml extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_alphabet_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_speech_bubble_xml extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_speech_bubble_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_icons_butcher_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
@@ -830,7 +847,6 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_characters_gerald_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_characters_readme_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_bacgruond_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
-@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_speech_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_stages_mansion_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_stages_mansion_lua extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_stages_readme_txt extends null { }
@@ -850,12 +866,15 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_characters_readme_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_characters_butcher_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_fonts_readme_txt extends null { }
-@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_placeholder_placeholder_json extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_unhinged_unhinged_json extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_unhinged_dialogue_json extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_unhinged_script_lua extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_introluction_introluction_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_readme_txt extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_whysozany_hud_lua extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_whysozany_unknown_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_whysozany_dialogue_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_whysozany_script_lua extends null { }
-@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_whysozany_asbelhud_lua extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_whysozany_whysozany_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__do_not_readme_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_fonts_vcr_ttf extends null { }

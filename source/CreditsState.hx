@@ -81,6 +81,16 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['zanious team'],
+			['pankie',		'noah',		'Animator/bg artist/charter!',								'https://twitter.com/Pankiepoo',	'444444'],
+			['biro',			'biro',			'Coder/Arist/story writter',							'https://www.youtube.com/channel/UCkDhHejKkl40_S1Mb5RzMBg',		'B42F71'],
+			['kalvin',				'Kalvin',			'Music producer',						'https://www.youtube.com/channel/UCX2Xje07FXX3zgNEYJNN5mg',			'5E99DF'],
+			['rainbowrider',				'rainbow',			'Artist',						'https://www.youtube.com/channel/UCA93rLHSCGZoradNb0zk1Yg',			'5E99DF'],
+			['cosmic',				'cosmic',			'Icon Artist/Artist',						'https://cosmicberry.carrd.co/',			'5E99DF'],
+			['milkman',				'milkman',			'Story writter',						'https://www.youtube.com/channel/UCXzfc_osmtS0sEw7Lq7ca4g',			'5E99DF'],
+			['bezie',				'rrrrrrrrrrrrrrrrrrr_1',			'Music producer/charter',						'https://www.youtube.com/channel/UCdkHxFQnvyIKHSPcRRu-9PQ',			'5E99DF'],
+
+			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'river',			'Main Artist/Animator of Psych Engine',							'https://twitter.com/RiverOaken',		'B42F71'],

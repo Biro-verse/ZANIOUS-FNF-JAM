@@ -165,7 +165,7 @@ HXLINE( 116)			::ApplicationMain_obj::start(stage);
             	HX_GC_STACKFRAME(&_hx_pos_6fcf922b66429816_30_create)
 HXLINE(  31)		 ::openfl::display::Application app =  ::openfl::display::Application_obj::__alloc( HX_CTX );
 HXLINE(  33)		::ManifestResources_obj::init(config);
-HXLINE(  35)		app->meta->set(HX_("build",2e,db,ea,ba),HX_("65",3f,2f,00,00));
+HXLINE(  35)		app->meta->set(HX_("build",2e,db,ea,ba),HX_("2",32,00,00,00));
 HXLINE(  36)		app->meta->set(HX_("company",3d,15,69,83),HX_("ShadowMario",e4,7d,20,5e));
 HXLINE(  37)		app->meta->set(HX_("file",7c,ce,bb,43),HX_("PsychEngine",3d,1b,63,8f));
 HXLINE(  38)		app->meta->set(HX_("name",4b,72,ff,48),HX_("Friday Night Funkin': Psych Engine",1a,50,f6,97));

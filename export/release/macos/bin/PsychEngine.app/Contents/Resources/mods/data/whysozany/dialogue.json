@@ -3,10 +3,138 @@
 		{
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "hi",
+			"portrait": "a",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "Hi cool guy hehehehe NOWAYY STEPBRO (UGH)"
+			"expression": "1sdt.png",
+			"text": "You got the stuff homie"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "a",
+			"boxState": "normal",
+			"expression": "lol",
+			"text": "yeah here"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "a",
+			"boxState": "normal",
+			"expression": "story",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "a",
+			"boxState": "normal",
+			"expression": "noarasd",
+			"text": "This isn't my amount!"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "a",
+			"boxState": "normal",
+			"expression": "re",
+			"text": "isn't this what you wanted?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "a",
+			"boxState": "normal",
+			"expression": "rds6ddd",
+			"text": "This isn't what I asked for!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "a",
+			"boxState": "normal",
+			"expression": "stotttt",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "a",
+			"boxState": "normal",
+			"expression": "rds8",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "a",
+			"boxState": "normal",
+			"expression": "nowway",
+			"text": "What the fuc-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "a",
+			"boxState": "normal",
+			"expression": "wal",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "a",
+			"boxState": "normal",
+			"expression": "dies",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "a",
+			"boxState": "normal",
+			"expression": "bonk",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "a",
+			"boxState": "normal",
+			"expression": "ughj",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "a",
+			"boxState": "normal",
+			"expression": "owo",
+			"text": "Aw damn"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "a",
+			"boxState": "normal",
+			"expression": "jays",
+			"text": "Hi! FRIEND, you look fun to hang out with! "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "a",
+			"boxState": "normal",
+			"expression": "uh",
+			"text": "Who the hell...."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "a",
+			"boxState": "normal",
+			"expression": "hilol",
+			"text": "you mind if I see more of this scenery right!?"
 		}
 	]
 }

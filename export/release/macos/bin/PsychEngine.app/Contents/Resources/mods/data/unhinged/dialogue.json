@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "an",
+			"boxState": "normal",
+			"expression": "grab",
+			"text": "HA ha HA! Come here and stay here FOREVER!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "an",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Enough of this!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "an",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Butcher swings his butcher knife at Gerald's arms but he misses "
+		},
+		{
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "an",
+			"boxState": "normal",
+			"expression": "lol",
+			"text": "Oh okay I see how it is! You don't wanna be a vewy nice guy huh? Welp it'\\s my turn to lead this show and DRAG YOU!"
+		}
+	]
+}
