@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yay.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="a" x="5" y="5" width="1280" height="720"/>
+	<SubTexture name="e" x="1290" y="5" width="1280" height="720"/>
+	<SubTexture name="mom" x="2575" y="5" width="1280" height="720"/>
+	<SubTexture name="ter" x="5" y="730" width="1280" height="720"/>
+</TextureAtlas>

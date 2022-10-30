@@ -821,8 +821,11 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_gfdancetitle_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_a_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_an_json extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_yay_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_hi_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_hi_dialogue_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_yay_dialogue_xml extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_yay_dialogue_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_hi_dialogue_xml extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_readme_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_dialogue_aniamtic_dialogue_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
@@ -856,6 +859,7 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_sounds_readme_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_sounds_fnf_loss_sfx_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_videos_readme_txt extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_videos_zanious_mp4 extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_scripts_gameoverscript_lua extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_scripts_script_lua extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_scripts_readme_txt extends null { }
@@ -870,11 +874,13 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_unhinged_dialogue_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_unhinged_script_lua extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_introluction_introluction_json extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_introluction_dialogue_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_readme_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_whysozany_hud_lua extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_whysozany_unknown_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_whysozany_dialogue_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_whysozany_script_lua extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_whysozany_video_lua extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_data_whysozany_whysozany_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__do_not_readme_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_fonts_vcr_ttf extends null { }

@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		0,
+		-60
+	],
+	"scale": 1.45,
+	"animations": [
+		{
+			"loop_name": "mom",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "mom",
+			"anim": "mom",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "e",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "e",
+			"anim": "ee",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "a",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "a",
+			"anim": "aa",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ter",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ter",
+			"anim": "ter",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "yay_Dialogue"
+}
