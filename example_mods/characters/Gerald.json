@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "GRLDidleleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-29
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "GRLDidleright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-63
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GRLDdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				98
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GRLDleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GRLDright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				182
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GRLDup",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gerald",
+	"position": [
+		0,
+		130
+	],
+	"healthicon": "Gerald",
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		255,
+		77
+	],
+	"camera_position": [
+		-400,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

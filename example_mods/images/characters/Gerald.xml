@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gerald.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GRLDdown0000" x="0" y="0" width="509" height="323" frameX="-9" frameY="-16" frameWidth="520" frameHeight="339"/>
+	<SubTexture name="GRLDdown0001" x="511" y="0" width="513" height="328" frameX="-7" frameY="-11" frameWidth="520" frameHeight="339"/>
+	<SubTexture name="GRLDdown0002" x="511" y="0" width="513" height="328" frameX="-7" frameY="-11" frameWidth="520" frameHeight="339"/>
+	<SubTexture name="GRLDdown0003" x="1026" y="0" width="518" height="336" frameX="-2" frameY="-3" frameWidth="520" frameHeight="339"/>
+	<SubTexture name="GRLDdown0004" x="1026" y="0" width="518" height="336" frameX="-2" frameY="-3" frameWidth="520" frameHeight="339"/>
+	<SubTexture name="GRLDdown0005" x="1546" y="0" width="519" height="339" frameX="0" frameY="0" frameWidth="520" frameHeight="339"/>
+	<SubTexture name="GRLDdown0006" x="1546" y="0" width="519" height="339" frameX="0" frameY="0" frameWidth="520" frameHeight="339"/>
+	<SubTexture name="GRLDdown0007" x="1546" y="0" width="519" height="339" frameX="0" frameY="0" frameWidth="520" frameHeight="339"/>
+	<SubTexture name="GRLDdown0008" x="1546" y="0" width="519" height="339" frameX="0" frameY="0" frameWidth="520" frameHeight="339"/>
+	<SubTexture name="GRLDdown0009" x="1546" y="0" width="519" height="339" frameX="0" frameY="0" frameWidth="520" frameHeight="339"/>
+	<SubTexture name="GRLDidleleft0000" x="2067" y="0" width="472" height="391" frameX="-4" frameY="0" frameWidth="496" frameHeight="391"/>
+	<SubTexture name="GRLDidleleft0001" x="2067" y="0" width="472" height="391" frameX="-4" frameY="0" frameWidth="496" frameHeight="391"/>
+	<SubTexture name="GRLDidleleft0002" x="2541" y="0" width="492" height="374" frameX="0" frameY="-8" frameWidth="496" frameHeight="391"/>
+	<SubTexture name="GRLDidleleft0003" x="2541" y="0" width="492" height="374" frameX="0" frameY="-8" frameWidth="496" frameHeight="391"/>
+	<SubTexture name="GRLDidleleft0004" x="3035" y="0" width="494" height="373" frameX="-2" frameY="-10" frameWidth="496" frameHeight="391"/>
+	<SubTexture name="GRLDidleleft0005" x="3035" y="0" width="494" height="373" frameX="-2" frameY="-10" frameWidth="496" frameHeight="391"/>
+	<SubTexture name="GRLDidleleft0006" x="3035" y="0" width="494" height="373" frameX="-2" frameY="-10" frameWidth="496" frameHeight="391"/>
+	<SubTexture name="GRLDidleright0000" x="3531" y="0" width="531" height="355" frameX="-11" frameY="-8" frameWidth="542" frameHeight="363"/>
+	<SubTexture name="GRLDidleright0001" x="3531" y="0" width="531" height="355" frameX="-11" frameY="-8" frameWidth="542" frameHeight="363"/>
+	<SubTexture name="GRLDidleright0002" x="0" y="393" width="522" height="354" frameX="-6" frameY="-2" frameWidth="542" frameHeight="363"/>
+	<SubTexture name="GRLDidleright0003" x="0" y="393" width="522" height="354" frameX="-6" frameY="-2" frameWidth="542" frameHeight="363"/>
+	<SubTexture name="GRLDidleright0004" x="524" y="393" width="520" height="357" frameX="0" frameY="0" frameWidth="542" frameHeight="363"/>
+	<SubTexture name="GRLDidleright0005" x="524" y="393" width="520" height="357" frameX="0" frameY="0" frameWidth="542" frameHeight="363"/>
+	<SubTexture name="GRLDidleright0006" x="524" y="393" width="520" height="357" frameX="0" frameY="0" frameWidth="542" frameHeight="363"/>
+	<SubTexture name="GRLDleft0000" x="1046" y="393" width="403" height="452" frameX="0" frameY="-13" frameWidth="403" frameHeight="465"/>
+	<SubTexture name="GRLDleft0001" x="1451" y="393" width="394" height="463" frameX="-4" frameY="-2" frameWidth="403" frameHeight="465"/>
+	<SubTexture name="GRLDleft0002" x="1451" y="393" width="394" height="463" frameX="-4" frameY="-2" frameWidth="403" frameHeight="465"/>
+	<SubTexture name="GRLDleft0003" x="1847" y="393" width="383" height="465" frameX="-5" frameY="0" frameWidth="403" frameHeight="465"/>
+	<SubTexture name="GRLDleft0004" x="1847" y="393" width="383" height="465" frameX="-5" frameY="0" frameWidth="403" frameHeight="465"/>
+	<SubTexture name="GRLDleft0005" x="2232" y="393" width="384" height="465" frameX="-5" frameY="0" frameWidth="403" frameHeight="465"/>
+	<SubTexture name="GRLDleft0006" x="2618" y="393" width="388" height="464" frameX="-5" frameY="-1" frameWidth="403" frameHeight="465"/>
+	<SubTexture name="GRLDleft0007" x="2618" y="393" width="388" height="464" frameX="-5" frameY="-1" frameWidth="403" frameHeight="465"/>
+	<SubTexture name="GRLDleft0008" x="2618" y="393" width="388" height="464" frameX="-5" frameY="-1" frameWidth="403" frameHeight="465"/>
+	<SubTexture name="GRLDleft0009" x="2618" y="393" width="388" height="464" frameX="-5" frameY="-1" frameWidth="403" frameHeight="465"/>
+	<SubTexture name="GRLDright0000" x="3008" y="393" width="584" height="358" frameX="0" frameY="-34" frameWidth="584" frameHeight="392"/>
+	<SubTexture name="GRLDright0001" x="0" y="860" width="572" height="365" frameX="-4" frameY="-27" frameWidth="584" frameHeight="392"/>
+	<SubTexture name="GRLDright0002" x="0" y="860" width="572" height="365" frameX="-4" frameY="-27" frameWidth="584" frameHeight="392"/>
+	<SubTexture name="GRLDright0003" x="574" y="860" width="540" height="383" frameX="-8" frameY="-9" frameWidth="584" frameHeight="392"/>
+	<SubTexture name="GRLDright0004" x="574" y="860" width="540" height="383" frameX="-8" frameY="-9" frameWidth="584" frameHeight="392"/>
+	<SubTexture name="GRLDright0005" x="574" y="860" width="540" height="383" frameX="-8" frameY="-9" frameWidth="584" frameHeight="392"/>
+	<SubTexture name="GRLDright0006" x="1116" y="860" width="526" height="392" frameX="-10" frameY="0" frameWidth="584" frameHeight="392"/>
+	<SubTexture name="GRLDright0007" x="1116" y="860" width="526" height="392" frameX="-10" frameY="0" frameWidth="584" frameHeight="392"/>
+	<SubTexture name="GRLDright0008" x="1116" y="860" width="526" height="392" frameX="-10" frameY="0" frameWidth="584" frameHeight="392"/>
+	<SubTexture name="GRLDright0009" x="1116" y="860" width="526" height="392" frameX="-10" frameY="0" frameWidth="584" frameHeight="392"/>
+	<SubTexture name="GRLDright0010" x="1116" y="860" width="526" height="392" frameX="-10" frameY="0" frameWidth="584" frameHeight="392"/>
+	<SubTexture name="GRLDup0000" x="1644" y="860" width="330" height="542" frameX="-11" frameY="0" frameWidth="356" frameHeight="542"/>
+	<SubTexture name="GRLDup0001" x="1976" y="860" width="337" height="537" frameX="-8" frameY="-5" frameWidth="356" frameHeight="542"/>
+	<SubTexture name="GRLDup0002" x="1976" y="860" width="337" height="537" frameX="-8" frameY="-5" frameWidth="356" frameHeight="542"/>
+	<SubTexture name="GRLDup0003" x="2315" y="860" width="349" height="526" frameX="-3" frameY="-16" frameWidth="356" frameHeight="542"/>
+	<SubTexture name="GRLDup0004" x="2315" y="860" width="349" height="526" frameX="-3" frameY="-16" frameWidth="356" frameHeight="542"/>
+	<SubTexture name="GRLDup0005" x="2315" y="860" width="349" height="526" frameX="-3" frameY="-16" frameWidth="356" frameHeight="542"/>
+	<SubTexture name="GRLDup0006" x="2666" y="860" width="356" height="517" frameX="0" frameY="-25" frameWidth="356" frameHeight="542"/>
+	<SubTexture name="GRLDup0007" x="2666" y="860" width="356" height="517" frameX="0" frameY="-25" frameWidth="356" frameHeight="542"/>
+	<SubTexture name="GRLDup0008" x="2666" y="860" width="356" height="517" frameX="0" frameY="-25" frameWidth="356" frameHeight="542"/>
+	<SubTexture name="GRLDup0009" x="2666" y="860" width="356" height="517" frameX="0" frameY="-25" frameWidth="356" frameHeight="542"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled-1.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Last section0000" x="5" y="5" width="455" height="126"/>
+	<SubTexture name="Last section0001" x="5" y="5" width="455" height="126"/>
+	<SubTexture name="Last section0002" x="465" y="5" width="455" height="126"/>
+	<SubTexture name="Last section0003" x="465" y="5" width="455" height="126"/>
+	<SubTexture name="Last section0004" x="5" y="136" width="455" height="126"/>
+	<SubTexture name="Last section0005" x="5" y="136" width="455" height="126"/>
+	<SubTexture name="Last section0006" x="465" y="136" width="455" height="126"/>
+	<SubTexture name="Last section0007" x="465" y="136" width="455" height="126"/>
+	<SubTexture name="Last section0008" x="5" y="267" width="455" height="126"/>
+	<SubTexture name="Last section0009" x="5" y="267" width="455" height="126"/>
+	<SubTexture name="Last section0010" x="5" y="267" width="455" height="126"/>
+	<SubTexture name="Last section0011" x="5" y="267" width="455" height="126"/>
+	<SubTexture name="Last section0012" x="465" y="136" width="455" height="126"/>
+	<SubTexture name="Last section0013" x="465" y="136" width="455" height="126"/>
+	<SubTexture name="Last section0014" x="5" y="136" width="455" height="126"/>
+	<SubTexture name="Last section0015" x="5" y="136" width="455" height="126"/>
+	<SubTexture name="Last section0016" x="465" y="5" width="455" height="126"/>
+	<SubTexture name="Last section0017" x="465" y="5" width="455" height="126"/>
+	<SubTexture name="Last section0018" x="5" y="5" width="455" height="126"/>
+	<SubTexture name="Last section0019" x="5" y="5" width="455" height="126"/>
+</TextureAtlas>

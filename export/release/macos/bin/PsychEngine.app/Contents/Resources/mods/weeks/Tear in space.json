@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"whysozany",
+			"Gerald",
+			[
+				186,
+				33,
+				193
+			]
+		],
+		[
+			"placeholder",
+			"Gerald",
+			[
+				186,
+				33,
+				193
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "rift and space moment",
+	"weekName": "ZANIOUS",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

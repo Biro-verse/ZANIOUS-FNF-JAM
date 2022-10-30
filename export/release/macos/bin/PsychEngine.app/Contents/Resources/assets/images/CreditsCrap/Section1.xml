@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled-1.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Section0000" x="5" y="5" width="576" height="568"/>
+	<SubTexture name="Section0001" x="586" y="5" width="576" height="568"/>
+	<SubTexture name="Section0002" x="1167" y="5" width="576" height="568"/>
+</TextureAtlas>

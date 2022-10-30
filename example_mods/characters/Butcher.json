@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				185,
+				280
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BTRidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				246
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BTRleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				285
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BTRright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				285
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BTRdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				173,
+				324
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BTRup",
+			"indices": []
+		},
+		{
+			"offsets": [
+				172,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BTRum"
+		},
+		{
+			"offsets": [
+				69,
+				286
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BTRdm"
+		},
+		{
+			"offsets": [
+				91,
+				285
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BTRrm"
+		},
+		{
+			"offsets": [
+				67,
+				239
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BTRlm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Butcher",
+	"position": [
+		60,
+		380
+	],
+	"healthicon": "butcher",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		400,
+		-930
+	],
+	"sing_duration": 4,
+	"scale": 2.4
+}

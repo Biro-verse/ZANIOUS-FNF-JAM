@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="angg.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ang" x="5" y="5" width="1980" height="1080"/>
+	<SubTexture name="lol" x="1990" y="5" width="1980" height="1080"/>
+	<SubTexture name="wa" x="5" y="1090" width="1980" height="1080"/>
+</TextureAtlas>

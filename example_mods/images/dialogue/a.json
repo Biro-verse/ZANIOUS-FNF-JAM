@@ -1,0 +1,233 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		0,
+		-60
+	],
+	"no_antialiasing": true,
+	"scale": 1.45,
+	"animations": [
+		{
+			"loop_name": "HI",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "HI",
+			"anim": "hilol",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "1sdt.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "1sdt.png",
+			"anim": "1sdt.png",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "JAYS",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "JAYS",
+			"anim": "jays",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "OWO",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "OWO",
+			"anim": "owo",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bonk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bonk",
+			"anim": "bonk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "dies",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dies",
+			"anim": "dies",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "no way",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "no way",
+			"anim": "nowway",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "rds6ddd.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "rds6ddd.png",
+			"anim": "rds6ddd",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "rds8.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "rds8.png",
+			"anim": "rds8",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "storbds3deez.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "storbds3deez.png",
+			"anim": "story",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "storboardre",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "storboardre",
+			"anim": "re",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "storboardslol.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "storboardslol.png",
+			"anim": "lol",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "storboarez.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "storboarez.png",
+			"anim": "noarasd",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "storboarnh. ",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "storboarnh. ",
+			"anim": "stotttt",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ugh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ugh",
+			"anim": "ughj",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "uh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "uh",
+			"anim": "uh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "wall",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "wall",
+			"anim": "wal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "aniamtic_Dialogue"
+}

@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-100,
+		-250
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "wa",
+			"idle_name": "wa"
+		},
+		{
+			"loop_name": "lol",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "lol",
+			"anim": "lol",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ang",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ang",
+			"anim": "grab",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "angg_Dialogue"
+}

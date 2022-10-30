@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aniamtic_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="1sdt.png" x="5" y="5" width="1280" height="720"/>
+	<SubTexture name="HI" x="1290" y="5" width="1280" height="720"/>
+	<SubTexture name="JAYS" x="2575" y="5" width="1280" height="720"/>
+	<SubTexture name="OWO" x="3860" y="5" width="1280" height="720"/>
+	<SubTexture name="bonk" x="5145" y="5" width="1280" height="720"/>
+	<SubTexture name="dies" x="6430" y="5" width="1280" height="720"/>
+	<SubTexture name="no way" x="5" y="730" width="1280" height="720"/>
+	<SubTexture name="rds6ddd.png" x="1290" y="730" width="1280" height="720"/>
+	<SubTexture name="rds8.png" x="2575" y="730" width="1280" height="720"/>
+	<SubTexture name="storbds3deez.png" x="3860" y="730" width="1280" height="720"/>
+	<SubTexture name="storboardre.png" x="5145" y="730" width="1280" height="720"/>
+	<SubTexture name="storboardslol.png" x="6430" y="730" width="1280" height="720"/>
+	<SubTexture name="storboarez.png" x="5" y="1455" width="1280" height="720"/>
+	<SubTexture name="storboarnh. " x="1290" y="1455" width="1280" height="720"/>
+	<SubTexture name="ugh" x="2575" y="1455" width="1280" height="720"/>
+	<SubTexture name="uh" x="3860" y="1455" width="1280" height="720"/>
+	<SubTexture name="wall" x="5145" y="1455" width="1280" height="720"/>
+</TextureAtlas>
